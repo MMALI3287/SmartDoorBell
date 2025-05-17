@@ -74,7 +74,7 @@ graph TB
 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/smart-video-doorbell.git
+git clone https://github.com/MMALI3287/SmartDoorBell.git
 ```
 
 2. Set up hardware components
